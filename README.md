@@ -104,7 +104,7 @@ Currently exploring ideas around:
 
 <p align="left">
 
-<a href="(https://www.linkedin.com/in/sharvil-mithari-441169233/)" target="blank">
+<a href="https://www.linkedin.com/in/sharvil-mithari-441169233/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
