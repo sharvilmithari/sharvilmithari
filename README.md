@@ -82,7 +82,7 @@ Currently exploring ideas around:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharvilmitharishow_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharvilmithari&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharvilmithari&layout=compact&theme=tokyonight"/>
 
@@ -110,6 +110,10 @@ Currently exploring ideas around:
 
 <a href="https://github.com/sharvilmithari" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://instagram.com/sharvil.mithari" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 
 </p>
