@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharvil Mithari</h1>
 
 <h3 align="center">
-🚀 Computer Engineering Student | 🤖 AI Enthusiast | 💡 Future Startup Founder
+🚀 Computer Engineering Student | 🤖 AI Enthusiast | Web Development • Generative AI
 </h3>
 
 <p align="center">
