@@ -72,12 +72,6 @@ Currently exploring ideas around:
 
 ---
 
-# ⚡ Mindset
-
-> “Learn deeply. Build consistently. Create things that matter.”
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
