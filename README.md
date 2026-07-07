@@ -27,7 +27,7 @@ I’m currently improving my skills in:
 
 ---
 
-# 🚀 What I’m Building
+# 🚀 What I Build
 
 💡 I love working on projects that combine:
 
